@@ -63,6 +63,10 @@
   * Type: single word list
   * Sort: alphabetic
 
+* **[Iambic Poem Word List](./iambic-wordlist.json)** (2048 words)
+  
+  This wordlist is created by Chris Vickery and Christopher Allen while trying to make iambic poems for passphrases. The scratch repository containing associated scripts can be found [here](https://github.com/chrisinajar/password_poem)
+
 * [**Vulgar Words**](./vulgar-1384.txt) (1384)
   A list of English terms that could be found profane or offensive. *The list contains some words that many people won't find offensive, but it's a good start for anybody wanting to block offensive or profane terms on their Site.*
 
