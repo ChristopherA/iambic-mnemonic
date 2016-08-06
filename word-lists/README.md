@@ -1,4 +1,4 @@
-* **[Ogden's Basic English Words](./basic-english-850-ORIGIN.md) (850 Words):**
+* **[Ogden's Basic English Words](./basic-english-850.md) (850 Words):**
   This is a list of the 850 words in the [Basic English](https://en.wikipedia.org/wiki/Basic_English) core vocabulary. These words all denote simple concepts commonly used in everyday life, as developed by Charles K. Ogden in 1930. *"If one were to take the 25,000 word Oxford Pocket English Dictionary and take away the redundancies of our rich language and eliminate the words that can be made by putting together simpler words, we find that 90% of the concepts in that dictionary can be achieved with 850 words. The shortened list makes simpler the effort to learn spelling and pronunciation irregularities. The rules of usage are identical to full English so that the practitioner communicates in perfectly good, but simple, English."*
 
   * Source: http://ogden.basic-english.org/words.html
